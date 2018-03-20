@@ -6,3 +6,7 @@
 - import solehintask.sql in phpmyadmin
 - run some code in cmd
 - php artisan serve --port=9999
+
+## screenshot
+
+![n1](https://user-images.githubusercontent.com/12325386/37640314-ec36462c-2c4f-11e8-983e-93e612053622.JPG)
